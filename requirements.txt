@@ -1,0 +1,5 @@
+Flask==2.2.2
+flask_sqlalchemy==3.0.2
+pandas==1.4.3
+mysql-connector==2.2.9
+psycopg2-binary==2.9.5
